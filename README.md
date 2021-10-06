@@ -4,8 +4,6 @@
 ---
 - 🌱 I am a full stack developer 
 - 🔭 I’m currently focusing AWS Services and DSA
-- 🥅 2021 Goals: Contribute more
-- ⚡ Fun fact: I love Tea
 
 ### Connect with me:
 
@@ -22,14 +20,14 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="35px" height="25px" src="https://165halsey.com/wp-content/uploads/AWS-logo-Website.jpg" />
+<img align="left" alt="aws" width="35px" height="35px" src="https://165halsey.com/wp-content/uploads/AWS-logo-Website.jpg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+{%<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->%}
 
 
 
