@@ -1,14 +1,14 @@
-### Hi there,
+### Hi there, I'm Somya 👋
 
-### I'm Somya 👋
 ---
-- 🌱 I am a full stack developer 
-- 🔭 I’m currently focusing AWS Services and DSA
 
+- 🌱 I’m working as a Software Developer in Bengaluru, India
+- 🔭 I’m currently focusing on AWS Services and Algorithms
+- 👧 Pronouns- she/her
 ### Connect with me:
 
-[<img align="left" alt="somya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="somya | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/linkedin-ui-flat/48/LinkedIn_UI-03-1024.png" />][linkedin]
+[<img align="left" alt="somya | gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" />][gmail]
 
 <br />
 
@@ -20,16 +20,14 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="aws" width="35px" height="35px" src="https://165halsey.com/wp-content/uploads/AWS-logo-Website.jpg" />
+<img align="left" alt="aws" width="35px" src="https://drasticnews.com/wp-content/uploads/2019/12/Amazon-Web-Services_logo835x396.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br />
 
-{%<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->%}
-
 
 
 
 [linkedin]: https://www.linkedin.com/in/somya-sharma-
+[gmail]: somyawork2806@gmail.com
