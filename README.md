@@ -24,9 +24,6 @@
 [<img align="left" alt="MongoDB" width="35px" src="https://165halsey.com/wp-content/uploads/AWS-logo-Website.jpg" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 
-<br />
-<br />
-
 
 
 [linkedin]: www.linkedin.com/in/somya-sharma-
