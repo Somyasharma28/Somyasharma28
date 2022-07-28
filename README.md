@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [<img align="left" alt="somya | LinkedIn" width="24px" src="https://cdn2.iconfinder.com/data/icons/linkedin-ui-flat/48/LinkedIn_UI-03-1024.png" />][linkedin]
-<a href="mailto:somyawork2806@gmail.com"> <img align="left" alt="somya | gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" /> </a>
 
 <br />
 
