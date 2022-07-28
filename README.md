@@ -5,10 +5,10 @@
 - 🌱 I’m working as a Software Developer in Bengaluru, India
 - 🔭 I’m currently focusing on AWS Services and Algorithms
 - 👧 Pronouns- she/her
-- 
+
 ### Connect with me: 
 [<img align="left" alt="somya | LinkedIn" width="24px" src="https://cdn2.iconfinder.com/data/icons/linkedin-ui-flat/48/LinkedIn_UI-03-1024.png" />][linkedin]
-
+<br>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
